@@ -4,7 +4,8 @@ Personal website for the Debert family, hosted on GitHub Pages.
 
 ## Structure
 
-This repository contains the content for the [debert.xyz](https://debert.xyz) website.
+This repository contains the content for the [debert.xyz](https://debert.xyz)
+website.
 
 ## DNS Configuration
 
